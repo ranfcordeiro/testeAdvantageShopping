@@ -1,3 +1,7 @@
+ 
+Considerando que o teste em questão era curto, não vi a necessidade de separar cada mapeamento 
+e ação em sua respectiva página, porém organizei como se todo mapeamento fosse da mesma página e as ações em outro arquivo para manter o conceito.
+
 O projeto está separado em:
 
 controle: Executa as ações de interação com a objetos da página
