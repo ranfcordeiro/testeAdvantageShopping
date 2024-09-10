@@ -23,5 +23,5 @@ Para Executar os testes informados será necessário:
 
 Considerações:
 
-O teste de Api não foi realizado no mesmo formato, apesar de ser possível
+O teste de Api (atualizarImagemProduto.feature) não foi realizado no mesmo formato, apesar de ser possível
 Não foi possível realizar o cadastro do usuário para atualizarImagemProduto.feature
