@@ -13,10 +13,11 @@ Para Executar os testes informados será necessário:
 4- Executar o comando: npm install cypress --save-dev (instalar cypress)
 5- Executar o comando: npm install cypress-cucumber-preprocessor --save-dev (instalar cucumber)
 6- Abrir o projeto no testeAdvantageShopping no Visual Code
-7- Executar o comando: npm test 
-8- Selecionar E2E
-9- Executar o teste desejado clicando sobre a feature
+7- Executar o comando: npm test (execução assistida) ou npm cy:tesHeadless (execução não assistida)
+8- Selecionar E2E (assistida)
+9- Executar o teste desejado clicando sobre a feature (assistida)
 
 Considerações:
 
 O teste de Api não foi realizado no mesmo formato, apesar de ser possível
+Não foi possível realizar o cadastro do usuário para atualizarImagemProduto.feature
