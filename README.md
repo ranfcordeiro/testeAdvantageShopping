@@ -1,16 +1,16 @@
  
 Considerando que o teste em questão era curto, não vi a necessidade de separar cada mapeamento <br>
-e ação em sua respectiva página, porém organizei como se todo mapeamento fosse da mesma página e as ações em outro arquivo para manter o conceito.
+e ação em sua respectiva página, porém organizei como se todo mapeamento fosse da mesma página e as ações em outro arquivo para manter o conceito.<br>
 
-O projeto está separado em:
-
+O projeto está separado em:<br>
+<br>
 support/locators: Executa as ações de interação com a objetos da página
 support/pageobjects: Mapeia os objetos da página
 step_definition/teste: Vincula as funções de controle com o bdd
 step_definition/*.feature: Cenários em bdd
 
 Para Executar os testes informados será necessário:
-1- Baixar e executar o Visual Code Community
+1- Baixar e executar o Visual Code Community<br>
 2- Clonar o repositorio do github:  https://github.com/ranfcordeiro/testeAdvantageShopping
 3- Abrir o terminal dentro do Visual Code
 4- Executar o comando: npm install cypress --save-dev (instalar cypress)
