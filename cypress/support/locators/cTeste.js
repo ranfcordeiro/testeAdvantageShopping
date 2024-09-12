@@ -1,6 +1,6 @@
 /// <reference types="cypress" />
 
-import { mTeste } from "../modelo/mTeste"
+import { mTeste } from "../pageobjects/mTeste"
 
 class control {
     acessarUrl() {
