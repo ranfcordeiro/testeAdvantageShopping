@@ -1,5 +1,5 @@
  
-Considerando que o teste em questão era curto, não vi a necessidade de separar cada mapeamento 
+Considerando que o teste em questão era curto, não vi a necessidade de separar cada mapeamento <br>
 e ação em sua respectiva página, porém organizei como se todo mapeamento fosse da mesma página e as ações em outro arquivo para manter o conceito.
 
 O projeto está separado em:
