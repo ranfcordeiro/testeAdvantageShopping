@@ -1,14 +1,13 @@
  
 Considerando que o teste em questão era curto, não vi a necessidade de separar cada mapeamento 
-
 e ação em sua respectiva página, porém organizei como se todo mapeamento fosse da mesma página e as ações em outro arquivo para manter o conceito.
 
 O projeto está separado em:
 
-controle: Executa as ações de interação com a objetos da página
-modelo: Mapeia os objetos da página
-teste: Vincula as funções de controle com o bdd
-step_definition: Cenários em bdd
+support/locators: Executa as ações de interação com a objetos da página
+support/pageobjects: Mapeia os objetos da página
+step_definition/teste: Vincula as funções de controle com o bdd
+step_definition/*.feature: Cenários em bdd
 
 Para Executar os testes informados será necessário:
 
