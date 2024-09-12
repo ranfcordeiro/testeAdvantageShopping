@@ -10,7 +10,6 @@ step_definition/teste: Vincula as funções de controle com o bdd
 step_definition/*.feature: Cenários em bdd
 
 Para Executar os testes informados será necessário:
-
 1- Baixar e executar o Visual Code Community
 2- Clonar o repositorio do github:  https://github.com/ranfcordeiro/testeAdvantageShopping
 3- Abrir o terminal dentro do Visual Code
