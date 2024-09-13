@@ -4,9 +4,9 @@ e ação em sua respectiva página, porém organizei como se todo mapeamento fos
 <br>
 O projeto está separado em:<br>
 <br>
-support/locators: Executa as ações de interação com a objetos da página<br>
-support/pageobjects: Mapeia os objetos da página<br>
-step_definition/teste: Vincula as funções de controle com o bdd<br>
+support/pageobjects/action: Executa as ações de interação com a objetos da página<br>
+support/pageobjects/elements: Mapeia os objetos da página<br>
+step_definition: contém pastas que vinculam as ações com o bdd<br>
 step_definition/*.feature: Cenários em bdd<br>
 <br>
 Para Executar os testes informados será necessário:<br>
