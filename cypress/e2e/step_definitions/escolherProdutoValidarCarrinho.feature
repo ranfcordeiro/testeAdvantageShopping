@@ -1,6 +1,6 @@
 Feature: teste
 
-Scenario: Validar Login
+Scenario: Escolher Produto e Validar Carrinho
 Given que eu estou no site Advantage Shopping
 And digito "Mouse" na pesquisa
 When clico na lupa de Pesquisa
