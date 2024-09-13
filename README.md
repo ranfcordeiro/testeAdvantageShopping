@@ -16,7 +16,7 @@ Para Executar os testes informados será necessário:<br>
 4- Executar o comando: npm install cypress --save-dev (instalar cypress)<br>
 5- Executar o comando: npm install cypress-cucumber-preprocessor --save-dev (instalar cucumber)<br>
 6- Abrir o projeto no testeAdvantageShopping no Visual Code<br>
-7- Executar o comando: npm test (execução assistida) ou npm cy:tesHeadless (execução não assistida)<br>
+7- Executar o comando: npm test (execução assistida) ou npm run runtest (execução não assistida)<br>
 8- Selecionar E2E (assistida)<br>
 9- Executar o teste desejado clicando sobre a feature (assistida)<br>
 <br>
