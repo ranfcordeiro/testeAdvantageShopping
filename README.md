@@ -24,4 +24,5 @@ Considerações:<br>
 <br>
 O teste de Api (atualizarImagemProduto.feature) não foi realizado no mesmo formato, apesar de ser possível<br>
 Não foi possível realizar o cadastro do usuário para atualizarImagemProduto.feature<br>
-
+<br>
+npm install -D cypress-xpath
