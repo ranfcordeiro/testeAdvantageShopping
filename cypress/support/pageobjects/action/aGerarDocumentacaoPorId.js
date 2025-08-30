@@ -47,7 +47,7 @@ class gerarDocumentacaoPorId {
             cy.wait(5000)
 
             cy.get(eGerarDocumentacaoPorId.campos.promptIa)
-                .type("Pegue requisito técnico informado a seguir e transforme em um manual de usuário final, amigável para leigos: " + titulo + " " + conteudo)
+                .type("Pegue requisito técnico informado a seguir e transforme em um manual de usuário final, amigável para leigos: "+titulo +" "+conteudo)
             cy.get(eGerarDocumentacaoPorId.botoes.gerar)
             .click()
         }
